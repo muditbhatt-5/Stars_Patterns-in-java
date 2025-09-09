@@ -23,4 +23,5 @@ public class CircularRightHalfPyramidPattern
             System.out.println();
         }
     }
+
 }
